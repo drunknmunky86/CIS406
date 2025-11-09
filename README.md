@@ -1,1 +1,1 @@
-# CIS406
+CIS 406 GradeConverter
